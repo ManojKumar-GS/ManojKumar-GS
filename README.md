@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Manoj Kumar GS
+
+I'm a passionate **Flutter Full-Stack Developer** with experience building cross-platform mobile apps and robust backend systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manoj-kumar-g-s-61541b19b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumargs195@gmail.com) 
